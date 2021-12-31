@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haardenet
-- 👀 I’m interested in data, coding, web
-- 🌱 I’m currently learning html, php, templates
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in MODx, data, coding, web
+- 🌱 I’m currently learning MODx, html, php, templates
+- 💞️ I’m looking to collaborate on tadadada
 - 📫 How to reach me kris@haardenet.org
 
 <!---
